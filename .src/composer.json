@@ -1,0 +1,12 @@
+{
+    "name": "hanakivan/polylang-string-translations",
+    "require": {
+        "gettext/gettext": "^5.7",
+        "illuminate/collections": "^8.83"
+    },
+    "config": {
+        "platform": {
+            "php": "7.4"
+        }
+    }
+}
